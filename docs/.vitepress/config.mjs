@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/travel/",
   title: "Travel",
   description: "Collection of travel notes",
   themeConfig: {
