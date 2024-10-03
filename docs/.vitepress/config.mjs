@@ -5,6 +5,9 @@ export default defineConfig({
   base: "/travel/",
   title: "Travel",
   description: "Collection of travel notes",
+  head: [
+    ['script', { async: true, defer: true, src: 'https://umami.tilleps.com/script.js', 'data-website-id': '8bf25f70-74ae-4d0e-97ba-e768903010eb' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
