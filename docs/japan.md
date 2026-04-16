@@ -10,7 +10,7 @@
 Figure out your mobile/data situation before you get there.  Trying to connect to airport wifi can be slow/tricky, so plan ahead.
 
 - Enable your international data/roaming on your mobile carrier
-- Activate your e-sim before your flight
+- Activate your e-sim before your flight (I've used [Sakura mobile](https://www.sakuramobile.jp/) which allows hotspot)
 - Book/reserve a mobile hotspot to pickup at the airport
 
 
