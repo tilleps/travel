@@ -17,6 +17,10 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: "Australia",
+        link: "/australia"
+      },
+      {
         text: "Japan",
         link: "/japan"
       },

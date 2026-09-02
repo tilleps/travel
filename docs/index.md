@@ -8,8 +8,8 @@ hero:
 
 features:
   - title: What's new
-    details: Japan
-    link: /japan
+    details: Australia
+    link: /australia
 ---
 
 
