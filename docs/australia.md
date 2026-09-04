@@ -1,6 +1,10 @@
 # Australia
 
 
+- Do not tip, workers are paid a liveable wage, it's not expected, and the locals hate it.
+- Wear sunscreen!  The sun in Australia is brutal even when cloudy.
+
+
 ## Sydney
 
 Did you know "The Matrix" movie was filmed in various locations around Sydney?  The lady in red dress scene was filmed at [Lloyd Rees Fountain](https://maps.app.goo.gl/5ATAY8aWAMMqjVqo6)
@@ -18,6 +22,8 @@ Public transportation is pretty decent in Sydney, don't really need a car for mo
 ### Food Recommendations
 
 I found Chinese and Thai food in Sydney to be generally pretty good (I usually look for/order Pad Kra Pao).  Mexican food is pretty disappointing though.  The beef in Australia does taste a bit different, even in fast food chains like McDonald's and Hungry Jack's (Burger King).  The new [Sydney Fish Market](https://maps.app.goo.gl/macS486mJcGcezAa6) is a nice place to see and visit, but the food is just average.  If you do go, try to go earlier than later as most of the vendors are sold out / closed by afternoon.
+
+If you get a chance, should try fries with chicken salt - very addicting.
 
 
 - **[Razzie's Burgers](https://maps.app.goo.gl/bmJX8MYH85TdHHPR7)**: American smash burger shop [disclosure: owned by sibling]
